@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hello! I'm Darul Atfal Palash</h1>
 
-🎓 **PhD Student** in Electrical Engineering at **Auburn University**
+🎓 **PhD Student** in Electrical Engineering at **Auburn University**    
 🎓 Graduated from **Rajshahi University of Engineering & Technology (RUET)** in **Electronics & Telecommunication Engineering**    
 💻 **Passionate about** machine learning applications in Power Systems and Cyber-physical systems.
 
